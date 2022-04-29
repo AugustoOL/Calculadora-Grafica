@@ -1,0 +1,9 @@
+d:\ProjetoCalculadoraGrafica\Calculadora Grafica\bin\Debug\Calculadora Grafica.exe.config
+d:\ProjetoCalculadoraGrafica\Calculadora Grafica\bin\Debug\Calculadora Grafica.exe
+d:\ProjetoCalculadoraGrafica\Calculadora Grafica\bin\Debug\Calculadora Grafica.pdb
+d:\ProjetoCalculadoraGrafica\Calculadora Grafica\obj\Debug\Calculadora Grafica.csprojResolveAssemblyReference.cache
+d:\ProjetoCalculadoraGrafica\Calculadora Grafica\obj\Debug\Calculadora_Grafica.Form1.resources
+d:\ProjetoCalculadoraGrafica\Calculadora Grafica\obj\Debug\Calculadora_Grafica.Properties.Resources.resources
+d:\ProjetoCalculadoraGrafica\Calculadora Grafica\obj\Debug\Calculadora Grafica.csproj.GenerateResource.Cache
+d:\ProjetoCalculadoraGrafica\Calculadora Grafica\obj\Debug\Calculadora Grafica.exe
+d:\ProjetoCalculadoraGrafica\Calculadora Grafica\obj\Debug\Calculadora Grafica.pdb
